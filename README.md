@@ -1,13 +1,9 @@
-# TCS HackQuest Season 10 – CTF Writeups
+# HackQuest CTF Writeups
 
-This repository contains my solutions and proof of completion
-for selected challenges from **TCS HackQuest Season 10**.
+This repository contains my solutions, scripts, and proof files
+for HackQuest cybersecurity challenges.
 
-## Solved Challenges
-- AREA 64 ✅
-- SMALL-E ✅
-
-## Skills Demonstrated
-- Encoding & Decoding
-- Cybersecurity problem solving
-- CTF methodology
+## Contents
+- Cryptography challenges
+- Forensics & hidden data
+- Proof ZIPs and screenshots
